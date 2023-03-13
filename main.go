@@ -9,4 +9,7 @@ func main() {
 
 	// 101. Symmetric Tree
 	// symmetricTree.Ans()
+
+	// 1. Two Sum
+	// twoSum.Ans()
 }
